@@ -46,7 +46,6 @@ public class ContactAdapter extends BaseAdapter {
         tvName.setText(contactDemo.getName());
         tvPhone.setText(String.valueOf(contactDemo.getPhoneNumber()));
         if (!contactDemo.isImg()) {
-            //imageView.setImageResource(R.mipmap.ic_contact_default);
             imageView.setVisibility(View.INVISIBLE);
         } else {
             imageView.setVisibility(View.VISIBLE);
