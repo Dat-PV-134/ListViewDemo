@@ -4,9 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/Workspace/ListViewDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Android/Workspace/ListViewDemo/app/src/main/res/drawable/custom_button_add.xml" value="0.1" />
+        <entry key="..\:/Android/Workspace/ListViewDemo/app/src/main/res/drawable/custom_layout_contact.xml" value="0.1" />
         <entry key="..\:/Android/Workspace/ListViewDemo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Android/Workspace/ListViewDemo/app/src/main/res/drawable/img_contact_default.xml" value="0.1" />
         <entry key="..\:/Android/Workspace/ListViewDemo/app/src/main/res/drawable/item_background_right.xml" value="0.1" />
+        <entry key="..\:/Android/Workspace/ListViewDemo/app/src/main/res/layout/activity_add_contact.xml" value="0.1" />
         <entry key="..\:/Android/Workspace/ListViewDemo/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Android/Workspace/ListViewDemo/app/src/main/res/layout/icon_contact.xml" value="0.1" />
         <entry key="..\:/Android/Workspace/ListViewDemo/app/src/main/res/mipmap-anydpi-v26/ic_contact_default.xml" value="0.1" />
